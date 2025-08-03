@@ -49,7 +49,7 @@ app.*.map.json
 *.lock
 *.tmp
 
-# Flutter crash logs (optional)
+# Flutter crash logs 
 flutter_*.log
 
 # Flutter crash logs
