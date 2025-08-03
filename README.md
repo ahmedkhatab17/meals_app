@@ -1,4 +1,4 @@
-# day2_task
+# Meals App
 
 A new Flutter project.
 
